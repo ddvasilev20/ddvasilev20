@@ -8,8 +8,9 @@ Information about me:
 
 ### Connect with me:
 <hr>
-<a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
+<a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" /><a/>
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
 <br>
 <hr>
 
