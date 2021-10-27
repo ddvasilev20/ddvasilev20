@@ -1,9 +1,9 @@
 # Hi, my name is [Daniel Vasilev]👋
 <hr>
 <img align="right" height="250" width="375" alt="" src="https://www.phdmedia.com/bulgaria/wp-content/uploads/sites/51/2017/08/GIF-8.gif" />
-## Talking about Personal Stuffs:
+<h3> Information about me: </h3>
 
-- 🚀 I’m currently learning HTML5&CSS3 and C++. 
+- 🚀 I’m currently learning HTML5&CSS3 and C++.
 - 📫 &nbsp; How to reach me: ddvasilev20@codingburgas.bg  
 
 <hr>
@@ -26,13 +26,15 @@
 <code><img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 
 <hr>
+  <h3> Status: </h3>
+ 
+  <p> <b>⚡ Github Stats</b> </p>
+
+  <hr>
+  
+  <h1 align = "center"> First, solve the problem. Then, write the code. </h1>
   
 
 
-<br>
-  <hr>
-<div align="center">
-
-# Foucus on yourself not others!
 
 </div>
