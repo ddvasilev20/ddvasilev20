@@ -3,7 +3,7 @@
 <img align="right" height="250" width="375" alt="" src="https://www.phdmedia.com/bulgaria/wp-content/uploads/sites/51/2017/08/GIF-8.gif" />
 <h3> Information about me: </h3>
 
-- 🚀 I’m currently learning HTML5&CSS3 and C++.
+- 👨‍🎓 I’m currently learning HTML5&CSS3 and C++.
 - 📫 How to reach me: ddvasilev20@codingburgas.bg  
 
 <hr>
