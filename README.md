@@ -8,4 +8,6 @@ Information about me:
 - 🌱 I’m currently learning ...
 - 📫 Contact me: DDVasilev20@codingburgas.bg
 
+<hr>
+
 
