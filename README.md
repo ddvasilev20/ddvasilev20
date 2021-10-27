@@ -6,6 +6,7 @@ Information about me:
 - 🌱 I’m currently learning HTML5&CSS3 and C++ .
 - 📫 How to reach me: ddvasilev20@codingburgas.bg
 
+<hr>
 ### Languages and Tools:
 
 <code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
@@ -16,7 +17,7 @@ Information about me:
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 <code><img  alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 
-
+<hr>
 ### Connect with me:
 <hr>
 <a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://icon-library.com/images/facebook-icon-black-white/facebook-icon-black-white-22.jpg"/><a/>
