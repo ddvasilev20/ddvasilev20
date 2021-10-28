@@ -4,7 +4,8 @@
 <h3> Information about me: </h3>
 
 - 👨‍🎓 I’m currently learning HTML5&CSS3 and C++.
-- 📫 How to reach me: ddvasilev20@codingburgas.bg  
+- 📫 How to reach me: ddvasilev20@codingburgas.bg
+- ⭐️ Fun fact I thought programming was boring, but now I love it.
 
 <hr>
 
