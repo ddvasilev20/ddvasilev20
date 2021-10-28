@@ -25,12 +25,11 @@
 
 
 <hr>
-  <h3> Status: </h3>
- 
-  <p> <b>⚡ Github Stats</b> </p>
-
-  <hr>
-  
+  <h3>⚡ Github Status</h3>
+ <a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ddvasilev20&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+     <hr>
   <h1 align = "center"> First, solve the problem. Then, write the code. </h1>
   
 
